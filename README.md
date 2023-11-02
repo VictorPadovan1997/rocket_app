@@ -26,4 +26,3 @@ O projeto Rockets Low Costs tem como objetivo principal a implementação de um 
 - Toastr (notificações e alertas)
 - InputMask para máscara de dinheiro
 
-Esperamos que essas instruções simplificadas facilitem a instalação e compreensão do projeto!

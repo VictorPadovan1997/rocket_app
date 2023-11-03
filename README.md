@@ -3,7 +3,7 @@
 O projeto Rockets Low Costs tem como objetivo principal a implementação de um CRUD de usuários, proporcionando autenticação de usuário por meio de middlewares. Além disso, o sistema permite a criação de cotações, incluindo imagens de foguetes e dados gerais associados a esse CRUD. Há também a funcionalidade de um CRUD para o lançamento de foguetes, onde é possível definir a data exata de lançamento.
 
 ## Projeto em Produção Hospedagem: Hostoo.
-[(https://kqc6um8j.srv-108-181-92-67.webserverhost.top/login)]( https://kqc6um8j.srv-108-181-92-67.webserverhost.top/login)
+[https://kqc6um8j.srv-108-181-92-67.webserverhost.top/login]( https://kqc6um8j.srv-108-181-92-67.webserverhost.top/login)
 
 ## Como instalar o projeto
 

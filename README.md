@@ -28,7 +28,7 @@ O projeto Rockets Low Costs tem como objetivo principal a implementação de um 
 - InputMask para máscara de dinheiro
 
 ### Arquivo .env
-
+```
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:2jHxuK7Q7WuVwcs9sJmanRgF/1pRlNGQx3vvA058jkI=
@@ -89,3 +89,4 @@ VITE_PUSHER_HOST="${PUSHER_HOST}"
 VITE_PUSHER_PORT="${PUSHER_PORT}"
 VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
 VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
+```
